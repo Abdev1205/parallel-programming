@@ -1,0 +1,20 @@
+{
+  "files.associations": {
+    ".env*": "dotenv",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "vector": "cpp",
+    "xutility": "cpp",
+    "list": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp",
+    "iterator": "cpp",
+    "xmemory": "cpp",
+    "*.rmd": "markdown",
+    "initializer_list": "cpp",
+    "type_traits": "cpp",
+    "xstring": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp"
+  }
+}
